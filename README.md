@@ -2,7 +2,8 @@
 vim conf
 
 ## installation
-`shell
+
+```shell
 git clone git@github.com:levin-du/.vim.git
-`
+```
 
