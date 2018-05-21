@@ -1,6 +1,8 @@
 # .vim
 vim conf
 
+Use [Vundle](https://github.com/VundleVim/Vundle.vim) as plugin manager: 
+
 ## installation
 
 ```shell
