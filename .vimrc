@@ -34,7 +34,7 @@ Plugin 'nikvdp/ejs-syntax'
 Plugin 'Valloric/YouCompleteMe'
 Plugin 'leafgarland/typescript-vim'
 Plugin 'HerringtonDarkholme/yats.vim'
-
+Plugin 'posva/vim-vue'
 
 
 
