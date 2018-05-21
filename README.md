@@ -5,5 +5,8 @@ vim conf
 
 ```shell
 git clone git@github.com:levin-du/.vim.git
+
+vim
+:PluginInstall
 ```
 
